@@ -8,6 +8,6 @@ the test code sample is like
 https://github.com/vfhhu/Android-Simple-Permission-Checker/blob/master/app/src/main/java/xyz/vfhhu/simplepermissionchecker/MainActivity.java
 
 you only must to startActivityForResult PerMissionActivity and putExtra about Permission detail of string array
-and implement onActivityResult function like follow code:
+and implement onActivityResult function 
 
 
